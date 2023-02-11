@@ -14,7 +14,6 @@ function createLogo(userInput) {
     logo += `<text x="110" y="110" font-size="40" fill="${userInput.textColor}">${userInput.text}</text>`
 
     logo += '</svg>';
-    // console.log(logo);
     fs.writeFile('logo.svg', logo) 
     .then(() => {
         console.log("Generated logo.svg!!")

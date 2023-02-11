@@ -8,10 +8,10 @@
 + The NPM Jest package must also be installed for testing
 
 ## Usage
-![Screeshot](assets/images/readmegen.png)
+![Screeshot](assets/images/screenshot.png)
 
-+ Link to Screencastify: https://drive.google.com/file/d/14tkfKsrH7NMiAage6d3a_Xp3OTINkOIW/view
-+ Link to Github Repo: https://github.com/priyanka-agrawal025/readme-generator
++ Link to Screencastify: https://drive.google.com/file/d/1PNcUOE5DkoFHPQfTKAlCb1WA4LK30wP6/view
++ Link to Github Repo: https://github.com/priyanka-agrawal025/dynamic-logo-generator
 
 ## Credits
 + There were no collaborators on this project
